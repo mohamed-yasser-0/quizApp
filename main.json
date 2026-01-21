@@ -1,0 +1,162 @@
+[
+  {
+    "title": "What is Data Communication?",
+    "choices-1": "Exchange of data between two devices via a transmission medium",
+    "choices-2": "Sending images over the internet",
+    "choices-3": "Recording of sound waves",
+    "choices-4": "Storage of files on a hard drive",
+    "answer": "Exchange of data between two devices via a transmission medium"
+  },
+  {
+    "title": "Which of the following is NOT a component of a data communication system?",
+    "choices-1": "Message",
+    "choices-2": "Sender",
+    "choices-3": "Compiler",
+    "choices-4": "Receiver",
+    "answer": "Compiler"
+  },
+  {
+    "title": "Which component of a communication system defines the rules of data transmission?",
+    "choices-1": "Protocol",
+    "choices-2": "Transmission Medium",
+    "choices-3": "Sender",
+    "choices-4": "Message",
+    "answer": "Protocol"
+  },
+  {
+    "title": "Which element of protocol defines the structure or format of the data?",
+    "choices-1": "Syntax",
+    "choices-2": "Semantics",
+    "choices-3": "Timing",
+    "choices-4": "Structure",
+    "answer": "Syntax"
+  },
+  {
+    "title": "Which data flow mode allows communication in both directions but not simultaneously?",
+    "choices-1": "Half-duplex",
+    "choices-2": "Simplex",
+    "choices-3": "Full-duplex",
+    "choices-4": "Duplex",
+    "answer": "Half-duplex"
+  },
+  {
+    "title": "In a simplex mode, data flow is:",
+    "choices-1": "One-way only",
+    "choices-2": "Two-way but not at the same time",
+    "choices-3": "Two-way simultaneously",
+    "choices-4": "Randomly in both directions",
+    "answer": "One-way only"
+  },
+  {
+    "title": "Which topology connects every device to every other device?",
+    "choices-1": "Mesh",
+    "choices-2": "Star",
+    "choices-3": "Bus",
+    "choices-4": "Ring",
+    "answer": "Mesh"
+  },
+  {
+    "title": "In star topology, all devices are connected to:",
+    "choices-1": "A central hub",
+    "choices-2": "Each other directly",
+    "choices-3": "A single cable backbone",
+    "choices-4": "Two neighboring devices",
+    "answer": "A central hub"
+  },
+  {
+    "title": "Which topology uses a single backbone cable to connect all devices?",
+    "choices-1": "Bus",
+    "choices-2": "Star",
+    "choices-3": "Ring",
+    "choices-4": "Mesh",
+    "answer": "Bus"
+  },
+  {
+    "title": "Which topology passes signals in one direction only around a closed loop?",
+    "choices-1": "Ring",
+    "choices-2": "Bus",
+    "choices-3": "Star",
+    "choices-4": "Mesh",
+    "answer": "Ring"
+  },
+  {
+    "title": "Which data representation method uses bit patterns for characters?",
+    "choices-1": "Text representation",
+    "choices-2": "Audio representation",
+    "choices-3": "Video representation",
+    "choices-4": "Image representation",
+    "answer": "Text representation"
+  },
+  {
+    "title": "Which code uses 7 bits to represent characters?",
+    "choices-1": "ASCII",
+    "choices-2": "Unicode",
+    "choices-3": "Extended ASCII",
+    "choices-4": "ISO",
+    "answer": "ASCII"
+  },
+  {
+    "title": "The accuracy characteristic in data communication ensures:",
+    "choices-1": "Data is delivered exactly as sent",
+    "choices-2": "Data is delivered quickly",
+    "choices-3": "Data is encrypted",
+    "choices-4": "Data is stored permanently",
+    "answer": "Data is delivered exactly as sent"
+  },
+  {
+    "title": "What does 'jitter' refer to in data communication?",
+    "choices-1": "Variation in packet arrival time",
+    "choices-2": "Packet loss",
+    "choices-3": "Network speed",
+    "choices-4": "Transmission delay",
+    "answer": "Variation in packet arrival time"
+  },
+  {
+    "title": "Which network criterion measures how fast data is transmitted?",
+    "choices-1": "Performance",
+    "choices-2": "Reliability",
+    "choices-3": "Security",
+    "choices-4": "Topology",
+    "answer": "Performance"
+  },
+  {
+    "title": "What is throughput?",
+    "choices-1": "The rate at which data is transmitted over a network",
+    "choices-2": "Time taken for one packet to reach destination",
+    "choices-3": "Number of errors per second",
+    "choices-4": "The distance between devices",
+    "answer": "The rate at which data is transmitted over a network"
+  },
+  {
+    "title": "Which type of connection has a dedicated link between two devices?",
+    "choices-1": "Point-to-point",
+    "choices-2": "Multipoint",
+    "choices-3": "Shared link",
+    "choices-4": "Duplex link",
+    "answer": "Point-to-point"
+  },
+  {
+    "title": "Which of the following is an advantage of computer networks?",
+    "choices-1": "Sharing hardware and software resources",
+    "choices-2": "Increasing file corruption",
+    "choices-3": "Reducing system performance",
+    "choices-4": "Preventing communication",
+    "answer": "Sharing hardware and software resources"
+  },
+  {
+    "title": "Which type of network covers a small geographic area like a building?",
+    "choices-1": "LAN",
+    "choices-2": "WAN",
+    "choices-3": "MAN",
+    "choices-4": "Internet",
+    "answer": "LAN"
+  },
+  {
+    "title": "Which factor affects network performance?",
+    "choices-1": "Type of transmission media",
+    "choices-2": "Screen brightness",
+    "choices-3": "User password length",
+    "choices-4": "Keyboard layout",
+    "answer": "Type of transmission media"
+  }
+]
